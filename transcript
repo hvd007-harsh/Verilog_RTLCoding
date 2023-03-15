@@ -1,0 +1,351 @@
+# Reading C:/modeltech64_10.6d/tcl/vsim/pref.tcl
+# A bookmarks file was found in the current directory with 1 bookmark
+# //  ModelSim SE-64 10.6d Feb 24 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading project RTL1 
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 1 errors.
+# 16 compiles, 1 failed with 1 error.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 2 errors.
+# 16 compiles, 1 failed with 2 errors.
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v was successful.
+# 16 compiles, 0 failed with no errors.
+vsim -gui work.piso_tb -novopt
+# vsim -gui work.piso_tb -novopt 
+# Start time: 15:03:44 on Feb 17,2023
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Refreshing D:/Verilog/project/RTLCODE/work.piso_tb
+# Loading work.piso_tb
+# Refreshing D:/Verilog/project/RTLCODE/work.piso
+# Loading work.piso
+# A bookmarks file was found in the current directory with 1 bookmark
+add wave sim:/piso_tb/*
+# Bookmark(s) were restored for window "Wave"
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: harsh  Hostname: LAPTOP-7JIMOT6M  ProcessID: 14400
+#           Attempting to use alternate WLF file "./wlft8cayyq".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft8cayyq
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of RTLCODE1.v was successful.
+# Compile of RTLCODE2.v was successful.
+# Compile of RTLCODE4.v was successful.
+# Compile of RTLCODE5.v was successful.
+# Compile of RTLCODE6.v was successful.
+# Compile of RTLCODE7.v was successful.
+vsim -gui -novopt work.piso_tb
+# No bookmark changes exist in window "Wave"
+# End time: 15:06:27 on Feb 17,2023, Elapsed time: 0:02:43
+# Errors: 0, Warnings: 3
+# vsim -gui -novopt work.piso_tb 
+# Start time: 15:06:27 on Feb 17,2023
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Loading work.piso_tb
+# Loading work.piso
+# A bookmarks file was found in the current directory with 1 bookmark
+# Bookmark(s) were restored for window "Wave"
+# Compile of RTLCODE8.v was successful.
+# Compile of RTLCODE9.v was successful.
+# Compile of RTLCODE10.v was successful.
+# Compile of RTLCODE11.v was successful.
+# Compile of RTLCODE12.v was successful.
+# Compile of RTLCODE13.v was successful with warnings.
+# Compile of RTLCODE14.v was successful.
+# Compile of RTLCODE15.v was successful.
+# Compile of RTLCODE16.v was successful.
+# Compile of RTLCODE17.v failed with 3 errors.
+# 16 compiles, 1 failed with 3 errors.
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: harsh  Hostname: LAPTOP-7JIMOT6M  ProcessID: 14400
+#           Attempting to use alternate WLF file "./wlftiyxqxs".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftiyxqxs
+run
+run
+run
+run
+run
+run
+run
+run
+# Causality operation skipped due to absence of debug database file
+# No bookmark changes exist in window "Wave"
+# End time: 15:16:44 on Feb 17,2023, Elapsed time: 0:10:17
+# Errors: 0, Warnings: 4

@@ -1,0 +1,149 @@
+D:/Verilog/project/RTLCODE/RTLCODE10.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE10.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module wallace
+-- Compiling module half_adder
+-- Compiling module full_adder
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE1.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE1.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module dflipflop
+-- Compiling module dfftb
+
+Top level modules:
+	dfftb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE11.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE11.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALU
+-- Compiling module arith
+-- Compiling module logic
+
+Top level modules:
+	ALU
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE2.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE2.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module shiftreg
+-- Compiling module strb
+
+Top level modules:
+	strb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE12.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE12.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Seven_Segment_Display
+-- Compiling module Seven_Segment_Display_tb
+
+Top level modules:
+	Seven_Segment_Display_tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE4.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE4.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module seqdec
+-- Compiling module seqdectb
+
+Top level modules:
+	seqdectb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE13.v {2 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE13.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module and_gate
+-- Compiling module not_gate
+-- Compiling module or_gate
+-- Compiling module M21
+-- Compiling module top
+** Warning: D:/Verilog/project/RTLCODE/RTLCODE13.v(42): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	top
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE14.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE14.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Decimal2Binary_Encoder
+-- Compiling module Decimal2Binary_Encoder_tb
+
+Top level modules:
+	Decimal2Binary_Encoder_tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE5.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE5.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module vedic2x2
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE15.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE15.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Sync_counter
+-- Compiling module Sync_counter_tb
+
+Top level modules:
+	Sync_counter_tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE6.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE6.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Bit64Addr
+-- Compiling module Bit64Tb
+
+Top level modules:
+	Bit64Tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE16.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE16.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module piso
+-- Compiling module piso_tb
+
+Top level modules:
+	piso_tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE7.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE7.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module day7
+-- Compiling module day7tb
+
+Top level modules:
+	day7tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE8.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE8.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALU
+-- Compiling module arith
+-- Compiling module logic
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE17.v {0 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE17.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+** Error: D:/Verilog/project/RTLCODE/RTLCODE17.v(8): Error in `timescale directive.  Expected '/'.
+** Error: (vlog-13069) D:/Verilog/project/RTLCODE/RTLCODE17.v(8): near "(": syntax error, unexpected '('.
+** Error: D:/Verilog/project/RTLCODE/RTLCODE17.v(8): (vlog-13205) Syntax error found in the scope following 'piso'. Is there a missing '::'?
+
+} {3.0 6.0} {}} D:/Verilog/project/RTLCODE/RTLCODE18.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE18.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Binary_Multiplier
+-- Compiling module tb_binary
+
+Top level modules:
+	tb_binary
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE9.v {1 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE9.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module datamemvar
+-- Compiling module tb_datamem
+
+Top level modules:
+	tb_datamem
+
+} {} {}} D:/Verilog/project/RTLCODE/RTLCODE19.v {0 {vlog -work work -vopt -stats=none D:/Verilog/project/RTLCODE/RTLCODE19.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+** Error: (vlog-13069) D:/Verilog/project/RTLCODE/RTLCODE19.v(1): near "1": syntax error, unexpected INTEGER NUMBER.
+** Error: D:/Verilog/project/RTLCODE/RTLCODE19.v(1): (vlog-13205) Syntax error found in the scope following 'timescale'. Is there a missing '::'?
+
+} {3.0 5.0} {}}
